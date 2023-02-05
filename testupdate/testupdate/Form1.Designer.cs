@@ -47,9 +47,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(259, 67);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(50, 13);
+            this.label1.Size = new System.Drawing.Size(47, 13);
             this.label1.TabIndex = 3;
-            this.label1.Text = "version 4";
+            this.label1.Text = "version5";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // checkBox1
@@ -59,7 +59,7 @@
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(80, 17);
             this.checkBox1.TabIndex = 4;
-            this.checkBox1.Text = "checkBox4";
+            this.checkBox1.Text = "checkBox5";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
             // Form1
