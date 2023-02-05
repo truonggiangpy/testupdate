@@ -1,0 +1,15 @@
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\bin\Debug\testupdate.exe.config
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\bin\Debug\testupdate.exe.manifest
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\bin\Debug\testupdate.application
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\bin\Debug\testupdate.exe
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\bin\Debug\testupdate.pdb
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\obj\Debug\testupdate.csproj.AssemblyReference.cache
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\obj\Debug\testupdate.csproj.SuggestedBindingRedirects.cache
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\obj\Debug\testupdate.Form1.resources
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\obj\Debug\testupdate.Properties.Resources.resources
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\obj\Debug\testupdate.csproj.GenerateResource.cache
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\obj\Debug\testupdate.csproj.CoreCompileInputs.cache
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\obj\Debug\testupdate.exe.manifest
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\obj\Debug\testupdate.application
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\obj\Debug\testupdate.exe
+E:\c Sharp\WinFormsAutoUpdate\testupdate\testupdate\obj\Debug\testupdate.pdb
